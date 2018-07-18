@@ -1,6 +1,7 @@
 # Tank-X
 
 The game I made when I was 14 years old. It was created by using Game Maker, but in development process I used less visual programming, and more "real" coding with GM script language.
+All graphics also was made by me.
 
 Some of the game features:
 * 3 game modes with different objectives;
